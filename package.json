@@ -1,0 +1,10 @@
+{
+  "name": "pip-playground",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -F pip-demo dev",
+    "build": "pnpm -F pip-demo build",
+    "preview": "pnpm -F pip-demo preview",
+    "lint": "pnpm -F pip-demo lint"
+  }
+}
